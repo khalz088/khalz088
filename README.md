@@ -65,16 +65,15 @@
 
 <br>
 
-<table border="0">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalz088&show_icons=true&locale=en&layout=compact" alt="khalz088" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalz088&show_icons=true&locale=en" alt="khalz088" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalz088&" alt="khalz088" />
-    </td>
-  </tr>
-</table>
+## Top Languages
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalz088&show_icons=true&locale=en&layout=compact" alt="khalz088" />
+</p>
+<br>
+
+
+## Streak Stats
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalz088&" alt="khalz088" />
+</p>
+<br>

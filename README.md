@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tumaini James</h1>
-<h3 align="center">Hi! I'm a passionate full stack developer specializing in building dynamic and scalable web applications. My expertise lies in:</h3>
+<h3 align="center">Hi! I'm a passionate full stack developer specializing in building dynamic and scalable web applications.</h3>
 
-<br>
-. Backend: Laravel - crafting robust and efficient server-side solutions.
-
-<br>
-. Frontend: React & Vue - developing interactive and responsive user interfaces.
-
-<br>
-. Real-Time Applications: Livewire - integrating real-time updates seamlessly for enhanced user experiences. 
 
 
 <br>
@@ -21,9 +13,6 @@
 
 - ⚡ Fun fact **i like gamming**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 ## Languages and Tools

@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **jamestumaini088@outlook.com**
 
-- ⚡ Fun fact **i like gamming**
 
 
 

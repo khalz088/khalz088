@@ -7,9 +7,7 @@
  </abc>
 </h2> 
 
-
-# 💫 About Me:
-🔭 I’m currently working on  shopwithvero<br>🌱 I’m currently learning how the World truely works<br>💬 Ask me about Laravel <br>
+<br>
 
 
 # 💻 Tech Stack:

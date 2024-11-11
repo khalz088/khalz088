@@ -1,3 +1,13 @@
+<h2 align="center">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Tumaini James, Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhvdzY5Mmp3cjR2YjhuemtzaW8xdzl2bTN2NzVhem8zYm1vMmt0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+
+
 # 💫 About Me:
 🔭 I’m currently working on  shopwithvero<br>🌱 I’m currently learning how the World truely works<br>💬 Ask me about Laravel <br>
 
@@ -11,7 +21,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khalz088&limit=5&theme=dark&combine_all_yearly_contributions=true)
